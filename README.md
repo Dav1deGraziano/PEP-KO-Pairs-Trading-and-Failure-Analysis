@@ -46,7 +46,7 @@ scipy
 
 This repository uses a split license:
 
-- **Code** (`Notebook.ipynb`) is licensed under the [MIT License](MIT License (code)).
+- **Code** (`Notebook.ipynb`) is licensed under the [MIT License](MIT%20License%20(code)).
 - **Written content** (`Report.pdf` and `Extended Report.pdf`) is licensed under [CC BY 4.0](CC BY 4.0 License (content)). Reuse and adaptation are permitted with attribution.
 
 ## Author
