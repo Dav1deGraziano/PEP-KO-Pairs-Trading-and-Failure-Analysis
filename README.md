@@ -10,7 +10,7 @@ A case study of a cointegration-based pairs trading strategy on PepsiCo (PEP) an
 |---|---|
 | 📓 [Notebook](Code/Notebook.ipynb) | Jupyter notebook: data retrieval, statistical tests, strategy modelling and optimisation, backtesting, robustness checks, and OOS evaluation, with inline derivations and commentary. |
 | 📄 [Report](Reports/Report.pdf) | Written report presenting the same analysis in academic paper format, with derivations, tables, and figures. |
-| 📑 [Extended Report](Reports/Report.pdf) | Compiled narrative-only rendering of the notebook (markdown/commentary and outputs; code cells omitted). |
+| 📑 [Extended Report](Reports/Extended_Report.pdf) | Compiled narrative-only rendering of the notebook (markdown/commentary and outputs; code cells omitted). |
 | ⚖️ [MIT License](MIT%20License%20(code)) | MIT License, covering the notebook's code. |
 | ⚖️ [CC BY 4.0 License](CC%20BY%204.0%20License%20(content)) | CC BY 4.0 License, covering both PDF reports. |
 
