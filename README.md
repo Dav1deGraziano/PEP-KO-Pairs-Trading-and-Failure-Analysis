@@ -1,5 +1,10 @@
 # From Cointegration to Out-of-Sample Failure: A Pairs-Trading Case Study on PEP/KO
 
+Repository for the paper: 
+
+[From Cointegration to Out-of-Sample Failure: A Pairs-Trading Case Study on PEP/KO
+](https://arxiv.org/abs/2609.35359)
+
 A case study of a cointegration-based pairs trading strategy on PepsiCo (PEP) and The Coca-Cola Company (KO), including policy optimisation, robustness testing, and out-of-sample failure analysis.
 
 **Headline finding:** PEP and KO were significantly cointegrated over 2013–2018, and a threshold-based mean-reversion strategy calibrated on that relationship performed well in-sample (2018–2023). However, performance is concentrated almost entirely in the COVID-19 volatility shock, and a Deflated Sharpe Ratio of 0.423 shows that the in-sample edge does not have meaningful statistical evidence. Consistent with this, the strategy fails out-of-sample (2023–present) as the hedge ratio drifts and flips sign. *The evidence for an exploitable edge is weak.*
